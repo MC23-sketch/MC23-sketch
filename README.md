@@ -36,8 +36,6 @@ Welcome to my GitHub profile! I'm a tech enthusiast passionate about building pr
 ### 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mmc-ke25)
-- 📧 your.email@example.com
-
 ---
 
 > 💬 *“Building systems that bridge real-life gaps through tech.”*
