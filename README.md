@@ -4,9 +4,13 @@
 
 Welcome to my GitHub profile! I'm a tech enthusiast passionate about building practical, real-world solutions in the fields of cloud computing, eCommerce, fintech, and software development.
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=MC23-sketch&show_icons=true&theme=radical)]https://github.com/MC23-sketch/github-readme-stats"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MC23-sketch&show_icons=true&theme=gruvbox&bg_color=00000000" />
 
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC23-sketch&langs_count=8"/>
+
+<img alt="Top Langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MC23-sketch&langs_count=8&layout=compact&theme=gruvbox&bg_color=00000000" />
+
+<br clear="all" />
+
 ---
 
 ### 💼 About Me
