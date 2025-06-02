@@ -4,6 +4,7 @@
 
 Welcome to my GitHub profile! I'm a tech enthusiast passionate about building practical, real-world solutions in the fields of cloud computing, eCommerce, fintech, and software development.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MC23-sketch)](https://github.com/MC23-sketch/github-readme-stats)
 ---
 
 ### 💼 About Me
@@ -32,7 +33,6 @@ Welcome to my GitHub profile! I'm a tech enthusiast passionate about building pr
 - **Cloud & Security:** AWS (Certified), DPO Payments, InfoSec (CISSP)
 
 ---
-
 ### 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mmc-ke25)
